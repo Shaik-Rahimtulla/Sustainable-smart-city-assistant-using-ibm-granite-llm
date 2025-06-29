@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ibm_watsonx_ai
+python-multipart
+python-dotenv
+PyPDF2
+requests
